@@ -1,3 +1,10 @@
+## details
+tailwindcss and react in astro.  
+to run on your machine:  
+`npm install`  
+`npm install tailwindcss @tailwindcss/vite`  
+then `npm run dev` should start a server at `localhost:4321`.
+
 ## astro commands reminder
 
 from the root of the project:  
