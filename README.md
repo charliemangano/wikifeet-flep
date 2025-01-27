@@ -1,5 +1,5 @@
 ## details
-tailwindcss and react in astro.  
+tailwindcss in astro.  
 to run on your machine:  
 `npm install`  
 `npm install tailwindcss @tailwindcss/vite`  
