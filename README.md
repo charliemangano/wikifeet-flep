@@ -1,6 +1,6 @@
 ## astro commands reminder
 
-from the root of the project:
+from the root of the project:  
 `npm install` :: installs dependencies  
 `npm run dev` :: start local dev server (`localhost:4321`)  
 `npm run build` :: build prod site (`./dist/`)  
