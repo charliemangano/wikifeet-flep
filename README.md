@@ -1,5 +1,7 @@
 ## details
 tailwindcss in astro.  
+figma [here](https://www.figma.com/design/CK42B5eHzrA05O6FeIfXAL/wikifeet-flep?node-id=0-1&t=xSPRgplpt9eSPnKd-1).  
+
 to run on your machine:  
 `npm install`  
 `npm install tailwindcss @tailwindcss/vite`  
